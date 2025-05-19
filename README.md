@@ -50,7 +50,6 @@ After running, pytest will display the result for each test:
 
 test_fidpark_clients.py::test_read_client PASSED
 test_fidpark_clients.py::test_update_client PASSED
-...
 
 ## Author
 
