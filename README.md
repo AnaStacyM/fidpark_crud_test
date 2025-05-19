@@ -32,6 +32,11 @@ pytest test_fidpark_clients.py
 - ✅ Delete client after test
 
 ## Author
-*Your Full Name*  
-Email: your.email@example.com  
-GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+Anastasia Metelitsa
+Email: ametelica20@gmail.com
+GitHub: https://github.com/AnaStacyM
+
+## Notes
+This project is for demonstration and testing purposes only.
+
+Make sure to clean up any test data if using real environments.
