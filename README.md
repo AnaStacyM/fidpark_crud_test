@@ -14,7 +14,6 @@ pip
 
 Clone the repository and install dependencies:
 
-````bash
 git clone https://github.com/AnaStacyM/fidpark_crud_test.git
 cd fidpark_crud_test
 pip install -r requirements.txt
