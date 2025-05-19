@@ -15,7 +15,9 @@ pip
 Clone the repository and install dependencies:
 
 git clone https://github.com/AnaStacyM/fidpark_crud_test.git
+
 cd fidpark_crud_test
+
 pip install -r requirements.txt
 
 ## Running the Tests
@@ -49,7 +51,9 @@ Delete client after test (cleanup)
 After running, pytest will display the result for each test:
 
 test_fidpark_clients.py::test_read_client PASSED
+
 test_fidpark_clients.py::test_update_client PASSED
+
 
 ## Author
 
