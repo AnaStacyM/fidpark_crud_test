@@ -59,4 +59,4 @@ Anastasia Metelitsa
 
 ## Notes
 
-This project is for demonstration and testing purposes only.Please clean up any test data when using real environments.
+This project is for demonstration and testing purposes only. Please clean up any test data when using real environments.
